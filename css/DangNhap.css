@@ -165,3 +165,14 @@ html {
       bottom: 100%;
     }
   }
+  .backtotop{
+    position: fixed;
+    font-size: 50px;
+    width: 50px;
+    height: 50px;
+    border-radius:50px ;
+    background-color: aqua;
+    text-align: center;
+    right: 10px;
+    top: 650px;
+}

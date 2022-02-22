@@ -44,11 +44,11 @@ header{
 }
 
 .menu_logo nav a{
-    position:relative;
+    position: relative;
     top:9px;
     text-decoration: none;
     color: black;
-    line-height:30px;
+    line-height: 30px;
     margin: 0 50px;
 }
 

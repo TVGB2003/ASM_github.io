@@ -43,9 +43,11 @@ header{
 }
 
 .menu_logo nav a{
+    position: relative;
+    top:9px;
     text-decoration: none;
     color: black;
-    line-height: 50px;
+    line-height: 30px;
     margin: 0 50px;
 }
 
@@ -149,7 +151,7 @@ footer .footer-item h3{
 }
 .main .images .images-item:hover{
     transform: scale(1.1);
-    transition: all .1s linear;
+    transition: all .2s linear;
 }
 .main .images .images-item .muangay{
     position: relative;
